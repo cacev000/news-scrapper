@@ -1,0 +1,15 @@
+.nav-wrapper {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+#displayCard {
+    column-width: 33%;
+    column-rule-width: 3px;
+    /* columns: 3; */
+}
+
+.grey,
+a {
+    color: black !important
+}
